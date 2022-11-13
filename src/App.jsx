@@ -1,11 +1,15 @@
-import {Post} from './Post'
+import Header from "./components/Header";
+import { Post } from "./Post";
+import "./styles.css";
 
 export function App() {
-
   return (
-    <Post 
-      author="Felipe Dominicheli" 
-      content="lorem ipsum dolor sit amet, consectetur adip" 
-    />
-  )
+    <div>
+      <Header />
+      <Post
+        author="Felipe Dominicheli"
+        content="lorem ipsum dolor sit amet, consectetur adip"
+      />
+    </div>
+  );
 }
