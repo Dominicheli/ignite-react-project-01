@@ -39,7 +39,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## Autor
 
-<img src="https://github.com/Dominicheli.png" style="width:32px; height:32px; border-radius:50%" />
+<img src="https://github.com/Dominicheli.png" style="width:54px; height:54px; border-radius:25px" />
 <h2>Felipe Dominicheli 🧑‍💻</h2>
 <p>Feito com carinho! Entre em contato ✌</p>
 <div style="display: flex; gap: 8px">
