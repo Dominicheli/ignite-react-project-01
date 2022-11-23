@@ -2,9 +2,11 @@
 
 ![Badge](https://img.shields.io/badge/Dominicheli-IgniteFeed-brightgreen)
 
-## 📰 Um projeto de feed de postagens feito com React.js do Ignite da Rocketseat
+## Descrição do Projeto
 
-## Ignite Rocketseat 🚀🚀🚀
+<p>📰 Um projeto de feed de postagens feito com React.js do Ignite da Rocketseat</p>
+
+<p>Ignite Rocketseat 🚀🚀🚀</p>
 
 ### Pré-requisitos
 
@@ -16,7 +18,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 ```bash
 # Clone este repositório
-$ git clone <https://github.com/Dominicheli/ignite-react-project-01>
+$ git clone https://github.com/Dominicheli/ignite-react-project-01.git
 
 # Instale as dependências
 $ npm install
@@ -37,4 +39,10 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## Autor
 
-<img src="https:github.com/Dominicheli.png" style="width:32px; height:32px; border-radius:50%" />
+<img src="https://github.com/Dominicheli.png" style="width:32px; height:32px; border-radius:50%" />
+<h2>Felipe Dominicheli 🧑‍💻</h2>
+<p>Feito com carinho! Entre em contato ✌</p>
+<div style="display: flex; gap: 8px">
+<a href="https://github.com/Dominicheli" target="_blank">Github</a>
+<a href="https://www.linkedin.com/in/felipe-dominicheli-264499130/" target="_blank">Linkedin</a>
+</div>
